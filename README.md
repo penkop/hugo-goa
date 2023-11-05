@@ -163,6 +163,8 @@ These are settings that are specific to this theme.
 - `description`: Author description. This field supports markdown. eg. `Leading the charge at [Incircle Media](https://incirclemedia.com)`.
 - `authorimage`: Location of author image under static/img or assets/images directory. eg. `headshot.jpg`
 - `dateformat`: Golang date format to be used on this site. eg. `Jan 2, 2006`
+- `faviconSmall`: Small favicon (16x16px)
+- `faviconLarge`: Large favicon (32x32px)
 
 ### Site Meta Settings `[params.meta]`
 
