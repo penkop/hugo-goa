@@ -7,4 +7,5 @@ categories = []
 
 showpagemeta = true
 showcomments = true
+showreadtime = true
 +++
